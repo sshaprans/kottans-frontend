@@ -2,7 +2,7 @@
 
 ## Git & Github
 
-Passing the course from cottans front-end
+Passing the course from kottans front-end
 Now i can say that the course is well written and structured.
 
 Although I've only just started going through it, I've already learned a lot.
