@@ -28,3 +28,20 @@ I will use the command git pool  the most in the future);
 - The concept of HTTP Reques was completely new to me. Although I did not remember everything to the end, I understood the principle. I will try harder to remember.
 - Surprised at how easy it was to do the Linux Survival exercises.
 - In the future, I want to work more with HTTP Request. I hope to improve the knowledge about him
+
+
+## Git Collaboration
+<details><summary> Click to expand Screenshots from coursera 3 & 4 weeks </summary>
+
+![linux_cli_done](task_git_collaboration/courseraWeek3-4.png)
+
+</details>
+<details><summary> Click to expand Screenshots from  learngitbranching </summary>
+
+![linux_cli_done](task_git_collaboration/git_remotes.png)
+
+</details>
+
+- New for me this time was the flexibility of commits.
+- I was surprised by git ability to catch errors.
+- In the future, I will use the knowledge of git rebase and as much information as possible from this step of the course.
