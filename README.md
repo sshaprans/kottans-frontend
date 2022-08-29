@@ -62,3 +62,19 @@ I will use the command git pool  the most in the future);
 - New was calling child selectors through parents.
 - I was surprised by the variety of approaches to creating color.
 - I will use Twitter Bootstrap more in the future
+
+## Responsive Web Design
+<details><summary> Click to expand Screenshots from Flexbox froggy </summary>
+
+![img](task_responsive_web_design/flexbox_froggy.png)
+
+</details>
+<details><summary> Click to expand Screenshots from Grid garden </summary>
+
+![img](task_responsive_web_design/grid_garden.png)
+
+</details>
+
+- Always well-chosen material. Special thanks for the material not in English)).
+- A very cool combination of units of value. Example `grid-template: 50px 20% 1fr`.
+- Confident use of `grid layout` and `flexbox` is guaranteed.
