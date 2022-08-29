@@ -45,3 +45,20 @@ I will use the command git pool  the most in the future);
 - New for me this time was the flexibility of commits.
 - I was surprised by git ability to catch errors.
 - In the future, I will use the knowledge of git rebase and as much information as possible from this step of the course.
+
+## Intro to HTML and CSS
+
+<details><summary> Click to expand Screenshots for Intro to HTML & CSS  </summary>
+
+![img](task_html_css_intro/coursera.png)
+
+</details>
+<details><summary> Click to expand Screenshots from  codeAcademy </summary>
+
+![img](task_html_css_intro/code_academy.png)
+
+</details>
+
+- New was calling child selectors through parents.
+- I was surprised by the variety of approaches to creating color.
+- I will use Twitter Bootstrap more in the future
